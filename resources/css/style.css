@@ -132,7 +132,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
-  background-image: url('https://github.com/cfoste2/cfoste2.github.io/blob/master/resources/images/santorini.jpg/');
+  background-image: url('../images/santorini.JPG');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
